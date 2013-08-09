@@ -1,0 +1,10 @@
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\obj\x86\Debug\Beispielanwendung.csprojResolveAssemblyReference.cache
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\obj\x86\Debug\Beispielanwendung.MainForm.resources
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\obj\x86\Debug\Beispielanwendung.Properties.Resources.resources
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\obj\x86\Debug\Beispielanwendung.csproj.GenerateResource.Cache
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\bin\Debug\Beispielanwendung.exe
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\bin\Debug\Beispielanwendung.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\bin\Debug\PluginLib.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\bin\Debug\PluginLib.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\obj\x86\Debug\Beispielanwendung.exe
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\Beispielanwendung\obj\x86\Debug\Beispielanwendung.pdb

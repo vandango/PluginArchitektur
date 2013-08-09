@@ -1,0 +1,14 @@
+C:\Data\code\PluginSystem\CalculationPlugin\obj\Debug\CalculationPlugin.csprojResolveAssemblyReference.cache
+C:\Data\code\PluginSystem\CalculationPlugin\bin\Debug\CalculationPlugin.dll
+C:\Data\code\PluginSystem\CalculationPlugin\bin\Debug\CalculationPlugin.pdb
+C:\Data\code\PluginSystem\CalculationPlugin\bin\Debug\PluginLib.dll
+C:\Data\code\PluginSystem\CalculationPlugin\bin\Debug\PluginLib.pdb
+C:\Data\code\PluginSystem\CalculationPlugin\obj\Debug\CalculationPlugin.dll
+C:\Data\code\PluginSystem\CalculationPlugin\obj\Debug\CalculationPlugin.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\CalculationPlugin\bin\Debug\CalculationPlugin.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\CalculationPlugin\bin\Debug\CalculationPlugin.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\CalculationPlugin\bin\Debug\PluginLib.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\CalculationPlugin\bin\Debug\PluginLib.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\CalculationPlugin\obj\Debug\CalculationPlugin.csprojResolveAssemblyReference.cache
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\CalculationPlugin\obj\Debug\CalculationPlugin.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\CalculationPlugin\obj\Debug\CalculationPlugin.pdb

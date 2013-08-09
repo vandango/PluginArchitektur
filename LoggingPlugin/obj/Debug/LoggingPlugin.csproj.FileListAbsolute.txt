@@ -1,0 +1,14 @@
+C:\Data\code\PluginSystem\LoggingPlugin\obj\Debug\LoggingPlugin.csprojResolveAssemblyReference.cache
+C:\Data\code\PluginSystem\LoggingPlugin\bin\Debug\LoggingPlugin.dll
+C:\Data\code\PluginSystem\LoggingPlugin\bin\Debug\LoggingPlugin.pdb
+C:\Data\code\PluginSystem\LoggingPlugin\bin\Debug\PluginLib.dll
+C:\Data\code\PluginSystem\LoggingPlugin\bin\Debug\PluginLib.pdb
+C:\Data\code\PluginSystem\LoggingPlugin\obj\Debug\LoggingPlugin.dll
+C:\Data\code\PluginSystem\LoggingPlugin\obj\Debug\LoggingPlugin.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\LoggingPlugin\bin\Debug\LoggingPlugin.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\LoggingPlugin\bin\Debug\LoggingPlugin.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\LoggingPlugin\bin\Debug\PluginLib.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\LoggingPlugin\bin\Debug\PluginLib.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\LoggingPlugin\obj\Debug\LoggingPlugin.csprojResolveAssemblyReference.cache
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\LoggingPlugin\obj\Debug\LoggingPlugin.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\LoggingPlugin\obj\Debug\LoggingPlugin.pdb

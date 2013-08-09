@@ -1,0 +1,8 @@
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginSystem\bin\Debug\PluginSystem.exe.config
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginSystem\bin\Debug\PluginSystem.exe
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginSystem\bin\Debug\PluginSystem.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginSystem\bin\Debug\PluginLib.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginSystem\bin\Debug\PluginLib.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginSystem\obj\Debug\Konsolenanwendung.csprojResolveAssemblyReference.cache
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginSystem\obj\Debug\PluginSystem.exe
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginSystem\obj\Debug\PluginSystem.pdb

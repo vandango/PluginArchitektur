@@ -1,0 +1,8 @@
+C:\Data\code\PluginSystem\PluginLib\bin\Debug\PluginLib.dll
+C:\Data\code\PluginSystem\PluginLib\bin\Debug\PluginLib.pdb
+C:\Data\code\PluginSystem\PluginLib\obj\Debug\PluginLib.dll
+C:\Data\code\PluginSystem\PluginLib\obj\Debug\PluginLib.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginLib\bin\Debug\PluginLib.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginLib\bin\Debug\PluginLib.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginLib\obj\Debug\PluginLib.dll
+C:\data\Dropbox\Documents\Paper\windows.developer 2013.11 - Kleine Plugin Architektur\PluginSystem\PluginLib\obj\Debug\PluginLib.pdb
